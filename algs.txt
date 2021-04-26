@@ -1,0 +1,11 @@
+10
+u2 r l b2 l 
+l2 dp r2 f2 d 
+r2 b fp rp f 
+f rp u fp r2 
+b2 d2 u d f2 
+u2 lp up bp fp 
+d2 bp lp u b2 
+r2 fp r2 f rp 
+r2 d2 b2 d2 b 
+bp f r b dp 
