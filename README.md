@@ -4,8 +4,8 @@ A fun project of mine to experiment with the IDA* search algorithm and finding s
 
 Instructions:
 
-1. Run create_algs.py to generate a new set of algorithms in algs.txt.
-  - create_algs.py 'length of algs' 'number of algs'
+1. Run createAlgs.py to generate a new set of algorithms in algs.txt.
+  - createAlgs.py 'length of algs' 'number of algs'
 
 2. Run solver.py to return the solutions in solutions.txt and runtimes in times.txt.
 
